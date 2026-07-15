@@ -125,3 +125,8 @@ Alphabetical order is better suited to a search/filter feature than to the defau
    (duplicate protection).
 6. Attempt to add a nonexistent `film_id` and confirm a `FilmNotFoundError` is raised.
 7. Run the automated test suite to confirm everything passes: `pytest tests/ -v`
+
+
+
+## Commit History
+<img width="961" height="288" alt="Screenshot 2026-07-14 at 7 17 10 PM" src="https://github.com/user-attachments/assets/a6a6e1cc-6f09-444a-ab02-9966eb55cd54" />
