@@ -129,4 +129,5 @@ Alphabetical order is better suited to a search/filter feature than to the defau
 
 
 ## Commit History
-<img width="961" height="288" alt="Screenshot 2026-07-14 at 7 17 10 PM" src="https://github.com/user-attachments/assets/a6a6e1cc-6f09-444a-ab02-9966eb55cd54" />
+<img width="891" height="328" alt="Screenshot 2026-07-14 at 7 22 20 PM" src="https://github.com/user-attachments/assets/201e863d-c319-45ed-af11-c7555b9940f4" />
+
